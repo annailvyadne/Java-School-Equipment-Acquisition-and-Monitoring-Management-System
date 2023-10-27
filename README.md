@@ -1,0 +1,2 @@
+# Java-School-Equipment-Acquisition-and-Monitoring-Management-System
+A functional simple system about school equipment acquisition and monitoring management by an equipment manager (admin) of an institution who simply administers all the event reports from the users (a student, faculty member, and a non-teaching staff) a filing compliant about the school equipment conditions that are assigned to specified rooms.
